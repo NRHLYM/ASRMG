@@ -7,9 +7,15 @@ This is the main code of ASRMG,among them, reconstruct_main.Py is for refactorin
 Before running **reconstruct_main.py**, it is necessary to modify the configuration file.
 
 
-    <img width="216" alt="image" src="https://github.com/user-attachments/assets/e88bd7bd-2918-4aa4-9979-44a210bc7a8d">
+   <img width="216" alt="image" src="https://github.com/user-attachments/assets/e88bd7bd-2918-4aa4-9979-44a210bc7a8d">
+   
+   
    <img width="416" alt="image" src="https://github.com/user-attachments/assets/263253ad-e3cb-43f0-b6fc-4711c0542583">
+
+
 After running **reconstruct_main.py**,please run **evaluate_main.py** to evaluate the result.The expected output result is shown in the following figure
+    
+    
     <img width="416" alt="image" src="https://github.com/user-attachments/assets/17bb4e02-58da-4cdf-b2c0-077517d2f396">
 
 
