@@ -16,7 +16,7 @@ Before running **reconstruct_main.py**, it is necessary to modify the configurat
 After running **reconstruct_main.py**,please run **evaluate_main.py** to evaluate the result.The expected output result is shown in the following figure
     
     
-    <img width="416" alt="image" src="https://github.com/user-attachments/assets/17bb4e02-58da-4cdf-b2c0-077517d2f396">
+   <img width="416" alt="image" src="https://github.com/user-attachments/assets/17bb4e02-58da-4cdf-b2c0-077517d2f396">
 
 
 
