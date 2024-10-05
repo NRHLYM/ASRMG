@@ -13,9 +13,13 @@ of operate Workbook.
 
 ## Introduce of experts
 1.**Xin Chen**: He presided over one National Natural Science Foundation project and one Provincial Natural Science Foundation project. Published over 40 papers, including IEEE/ACM Transactions (TSE, TR, TOIT), EMSE, SANER, ISSRE, IST, FCS, ASOC Computer Research and Development, and other well-known domestic and international journals and conferences.
+
 2.**Jie Chen**: In 2016, she obtained a doctorate degree in computing software and theory from the Software Research Institute of the Chinese Academy of Sciences. Her main research interests including: software engineering and big data analysis, involving data mining in the open source community, code quality analysis, etc.
+
 3. **Bin Hu**: Participated in a project funded by the National Natural Science Foundation of China. Published two high-level international conference papers as the first author
+
 4. **Sixuan Wang**: He has served as the chief architect and technical consultant for multiple leading enterprises' digital transformation projects, covering various industries. He has years of experience in combining academic research with practical enterprise engineering,and has rich experience in school enterprise cooperation, student training, and the integration of government, industry, academia, and research.
+
 5. **Dongjin Yu**: He has published more than 100 academic papers in SCI indexed journals, first-class journals, and international important academic conferences, edited 5 monographs, and edited one textbook for the "Twelfth Five Year Plan" for outstanding engineers.
 
 # Introduce of Experiments
