@@ -38,3 +38,22 @@ After running **reconstruct_main.py**, you just need to run **evaluate_main.py**
     
     
    <img width="416" alt="image" src="https://github.com/user-attachments/assets/17bb4e02-58da-4cdf-b2c0-077517d2f396">
+
+The data obtained from evaluate_main.exe is used to reproduce RQ1~RQ4 in the **Experiments/RQ** file of this article.
+
+**RQ1**
+RQ1 includes a comparison of the scale, smell quantity, and various indicators of the system before and after refactoring.
+
+**RQ2**
+RQ2, taking the BSA system as an example, includes interval partitioning at different scales after system reconstruction, smell quantity, and indicators of SDH and SPH。
+
+**RQ3**
+RQ3 includes a comparison of evaluation systems at different reconstruction scales and the similarity between reconstruction results and manual reconstruction.
+
+**RQ4**
+RQ4 includes a comparison of various indicators with and without low fitness processing
+
+
+
+
+
