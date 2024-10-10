@@ -1,6 +1,6 @@
 # ASRMG: Business Topic Clustering-based Architecture Smell Refactoring for Microservices Granularity 
 # Introduce of this dataset
-The repository provided 5 architectural granularity smells present in the microservices system, stored by means of Excel.
+The repository provided 5 microservices systems with architectural granularity smells, stored by means of Excel.
 The smells were determined by our experts team through vote process. and was used to support the analyze of our method "**ASRMG**" to refactor microservice
 architecture granularity smells.
 
