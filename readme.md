@@ -13,6 +13,8 @@ of operate Workbook.
 
 
 ## Introduce of experts
+TThe number of smells in the table refers to the count of microservice architecture granularity smells, determined through a consensus reached by 5 experts after analyzing the microservice system code. We invited five experts in the field of intelligent software engineering, who are are members of the China Computer Federation(CCF) Software Engineering Committee, specializing in the field of intelligent software engineering and having extensive experien in microservice software quality.
+
 1.**Xin Chen**: He presided over one National Natural Science Foundation project and one Provincial Natural Science Foundation project. Published over 40 papers, including IEEE/ACM Transactions (TSE, TR, TOIT), EMSE, SANER, ISSRE, IST, FCS, ASOC Computer Research and Development, and other well-known domestic and international journals and conferences.
 
 2.**Jie Chen**: In 2016, she obtained a doctorate degree in computing software and theory from the Software Research Institute of the Chinese Academy of Sciences. Her main research interests including: software engineering and big data analysis, involving data mining in the open source community, code quality analysis, etc.
